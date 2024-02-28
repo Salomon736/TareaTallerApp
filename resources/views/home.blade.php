@@ -15,7 +15,7 @@
                     </h2>
                 </div>
                 <!-- Page title actions -->
-                <div class="col-12 col-md-auto ms-auto d-print-none">
+                <!-- <div class="col-12 col-md-auto ms-auto d-print-none">
                     <div class="btn-list">
                   <span class="d-none d-sm-inline">
                     <a href="#" class="btn btn-white">
@@ -24,7 +24,7 @@
                   </span>
                         <a href="#" class="btn btn-primary d-none d-sm-inline-block" data-bs-toggle="modal"
                            data-bs-target="#modal-report">
-                            <!-- Download SVG icon from http://tabler-icons.io/i/plus -->
+                 
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24"
                                  viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
                                  stroke-linecap="round" stroke-linejoin="round">
@@ -36,7 +36,7 @@
                         </a>
                         <a href="#" class="btn btn-primary d-sm-none btn-icon" data-bs-toggle="modal"
                            data-bs-target="#modal-report" aria-label="Create new report">
-                            <!-- Download SVG icon from http://tabler-icons.io/i/plus -->
+                       
                             <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24"
                                  viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
                                  stroke-linecap="round" stroke-linejoin="round">
@@ -50,7 +50,7 @@
             </div>
         </div>
     </div>
-    <!-- Page body -->
+
     <div class="page-body">
         <div class="container-xl">
             <div class="row row-deck row-cards">
@@ -85,7 +85,7 @@
                                     <th class="w-1"><input class="form-check-input m-0 align-middle" type="checkbox"
                                                            aria-label="Select all invoices"></th>
                                     <th class="w-1">No.
-                                        <!-- Download SVG icon from http://tabler-icons.io/i/chevron-up -->
+                                     
                                         <svg xmlns="http://www.w3.org/2000/svg"
                                              class="icon icon-sm text-dark icon-thick" width="24" height="24"
                                              viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
@@ -387,7 +387,7 @@
                             <ul class="pagination m-0 ms-auto">
                                 <li class="page-item disabled">
                                     <a class="page-link" href="#" tabindex="-1" aria-disabled="true">
-                                        <!-- Download SVG icon from http://tabler-icons.io/i/chevron-left -->
+                                       
                                         <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24"
                                              viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
                                              stroke-linecap="round" stroke-linejoin="round">
@@ -404,7 +404,7 @@
                                 <li class="page-item"><a class="page-link" href="#">5</a></li>
                                 <li class="page-item">
                                     <a class="page-link" href="#">
-                                        next <!-- Download SVG icon from http://tabler-icons.io/i/chevron-right -->
+                                        next 
                                         <svg xmlns="http://www.w3.org/2000/svg" class="icon" width="24" height="24"
                                              viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none"
                                              stroke-linecap="round" stroke-linejoin="round">
@@ -413,7 +413,7 @@
                                         </svg>
                                     </a>
                                 </li>
-                            </ul>
+                            </ul> -->
 
                             {{--
                              Built In Paginator Component
